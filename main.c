@@ -1,5 +1,5 @@
 // ===========================================
-// Weather Tester by Papagianneos
+// Weather Tester
 // ===========================================
 
 #include <dht11.h>
